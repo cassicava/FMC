@@ -29,6 +29,7 @@ h1{
 
 main{
     padding: 10px;
+    height: 80vh;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -53,8 +54,8 @@ p{
 }
 
 footer{
-    /* position: fixed;
-    bottom: 0px; */
+    position: fixed;
+    bottom: 0px;
     width: 100vw;
     
     padding: 15px 0px 15px 20px;
