@@ -10,7 +10,7 @@ body{
 header{
     display: flex;
     padding: 15px 0px 15px 20px;
-    color: #8a05bead;
+    background-color: #8a05bead;
 
     border-bottom: 1px solid black;
     align-items: center;
@@ -19,7 +19,7 @@ header{
 }
 
 h1{
-    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     letter-spacing: 1px;
     font-size: 1.8em;
     font-weight: bold;
