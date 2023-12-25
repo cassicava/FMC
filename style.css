@@ -19,16 +19,18 @@ header{
 
 h1{
     color: #8A05BE;
-    letter-spacing: 5px;
-    font-size: 2.5em;
+    letter-spacing: 1px;
+    font-size: 1.8em;
     font-weight: bold;
+    text-align: center;
+    width: 100vw;
 }
 
 main{
-    padding: 50px;
+    padding: 10px;
     display: flex;
     align-items: center;
-    flex-direction: center;
+    flex-direction: column;
     justify-content: baseline;
     
 }
@@ -37,12 +39,13 @@ a{
     font-style: none;
 }
 .erro>p{
-    font-size: 1.5em;
-    margin-left: 50px;
-}
+    font-size: 1.2em;
+font-weight: bold;
+margin-top: 10px;}
 
 img{
-    height: 200px;
+    padding: 20px;
+    height: 130px;
 }
 p{
     margin: 5px 0px;
